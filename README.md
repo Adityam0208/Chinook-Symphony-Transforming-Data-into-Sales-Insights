@@ -4,7 +4,7 @@
 store, including tables for artists, albums, media tracks, invoices and customers. It adheres to data warehousing and data analysis best practices, enabling efficient querying, reporting, and visualization.
 
 # Data Model Design:
-! [dim_image] (https://github.com/Adityam0208/Chinook-Symphony-Transforming-Data-into-Sales-Insights/blob/main/Dimensional%20Model/Dim%20data%20model.png)
+![dim_image](https://github.com/Adityam0208/Chinook-Symphony-Transforming-Data-into-Sales-Insights/blob/main/Dimensional%20Model/Dim%20data%20model.png)
 # Facts:
 - FactInvoiceLine: Stores transaction-level details for invoice lines, including quantity, price, and customer information.
 - Additional custom facts can be incorporated for specific analysis needs.
